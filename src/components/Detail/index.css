@@ -1,0 +1,21 @@
+.container-detail{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 2% 20%;
+    padding: 3%;
+    max-height: 100vh;
+    /* min-height: 83.5vh; */
+    align-items: center;
+    border: 1px solid #666666;
+}
+img{
+    height: 60%;
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: start;
+    padding: 3% 2%;
+}

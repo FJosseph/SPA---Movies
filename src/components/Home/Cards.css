@@ -1,0 +1,15 @@
+.movies-box{
+    display: flex;
+    padding: 5%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+@media (max-width:1000px) {
+    .movies-box{
+        display: flex;
+        padding:5% 0%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
